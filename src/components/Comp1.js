@@ -14,7 +14,7 @@ return (
         <h2>Event Handling</h2>
         <button onClick={clickHandler}>Push</button>
         <h2>useState-Hook example</h2>
-        <p>Du hast mich {count} mal geklickt</p>
+        <p>Du hast mich {count} mal geklickt!!!!!</p>
         <button onClick={() => setCount(count + 1)}>Click</button>
     </div>
 );
